@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "springboot-init"
+		},
+		{
+			"path": "hibernate"
+		},
+		{
+			"path": "jdbc-java"
+		},
+		{
+			"path": "junit"
+		},
+		{
+			"path": "telusko-web-app"
+		},
+		{
+			"path": "telusko-app"
+		}
+	],
+	"settings": {}
+}
