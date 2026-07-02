@@ -23,6 +23,9 @@
 		},
 		{
 			"path": "spring-fw"
+		},
+		{
+			"path": "simple-web-app"
 		}
 	],
 	"settings": {}
