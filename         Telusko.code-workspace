@@ -17,6 +17,9 @@
 		},
 		{
 			"path": "telusko-app"
+		},
+		{
+			"path": "app1"
 		}
 	],
 	"settings": {}
