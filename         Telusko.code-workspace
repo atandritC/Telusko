@@ -26,6 +26,9 @@
 		},
 		{
 			"path": "simple-web-app"
+		},
+		{
+			"path": "spring-jdbc"
 		}
 	],
 	"settings": {}
