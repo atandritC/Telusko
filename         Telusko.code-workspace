@@ -20,6 +20,9 @@
 		},
 		{
 			"path": "app1"
+		},
+		{
+			"path": "spring-fw"
 		}
 	],
 	"settings": {}

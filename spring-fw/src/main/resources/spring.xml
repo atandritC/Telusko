@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="alien" class="com.telusko.Alien" autowire="byName">        <!-- Autowire -->
+        <!-- <property name="setter-injection" value="_"/>
+        <constructor-arg name="constructor-injection" value="_"/> -->
+
+        <!-- <property name="laptop" ref="laptop"/> -->
+        <!-- <constructor-arg name="laptop" ref="laptop"/> -->
+
+    </bean>
+
+    <bean id="machine" class="com.telusko.Laptop">
+    </bean>
+
+</beans>
